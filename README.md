@@ -9,6 +9,12 @@
 ## Project Details:
 - RouterOS __3.0__ Configuration Management Commands.
 
+## How to run?
+1. System > Scripts
+2. (+) Add a new script
+3. New Terminal
+4. Type: `system script run <SCRIPT_NAME>`
+
 ### Fix me
 - What are these addresses:
     * 177.71.206.0/24
