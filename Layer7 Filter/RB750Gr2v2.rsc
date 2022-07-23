@@ -1,8 +1,7 @@
 # jan/16/2020 02:28:36 by RouterOS 6.43.8
-# software id = 6GMS-6R8J
 #
 # model = RouterBOARD 750 r2
-# serial number = 65E0056AEB1F
+#
 /interface bridge
 add name="Ponte de Seguran\E7a"
 /interface ethernet
